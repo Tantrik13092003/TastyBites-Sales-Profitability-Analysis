@@ -170,7 +170,7 @@ monitoring sales, profitability, product performance, and business trends.
 
 ### Dashboard Preview
 
-_Add dashboard screenshot here._
+![TastyBites Sales & Profitability Dashboard](TastyBites-Dashboard.png)
 
 ---
 
