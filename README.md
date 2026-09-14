@@ -177,9 +177,13 @@ monitoring sales, profitability, product performance, and business trends.
 
 ## 📁 Project Files
 
-- `TASTYBITES SALES & PROFITABILITY DASHBOARD.pbix`
+- [TASTYBITES SALES & PROFITABILITY DASHBOARD.pbix](TASTYBITES%20SALES%20%26%20PROFITABILITY%20DASHBOARD.pbix)
   - Interactive Power BI dashboard
-- `README.md`
+
+- [TASTYBITES ppt.pptx](TASTYBITES%20ppt.pptx)
+  - Project presentation
+
+- [README.md](README.md)
   - Project documentation
 
 ---
